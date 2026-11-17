@@ -17,7 +17,7 @@ My research focuses on **natural language processing (NLP)** and **machine learn
 2. **Hallucination in Vision-Language Models (VLM)**
 3. **LLM Truthfulness and Interpretability**
 
-My [publications]( {{ base_path }}/publications/) are listed below and on the Publications page.
+My [publications]({{ base_path }}/publications/) are listed below and on the Publications page.
 
 ## Education
 
@@ -46,15 +46,15 @@ My [publications]( {{ base_path }}/publications/) are listed below and on the Pu
 
 ### Preprints (arXiv, 2025)
 
-1. **Junteng Liu**, Yuanxiang Fan, Zhuo Jiang, Han Ding, Yongyi Hu, Chi Zhang, Yiqi Shi, Shitong Weng, Aili Chen, Shiqi Chen, Yunan Huang, Mozhi Zhang, Pengyu Zhao, Junjie Yan, Junxian He. **"[SynLogic: Synthesizing Verifiable Reasoning Data at Scale for Learning Logical Reasoning and Beyond]( {{ base_path }}/publication/2025-01-02-synlogic)."** *arXiv*, 2025. *(First author; code available on GitHub.)*
-2. **Junteng Liu**, Weihao Zeng, Xiwen Zhang, Yijun Wang, Zifei Shan, Junxian He. **"[On the Perception Bottleneck of VLMs for Chart Understanding]( {{ base_path }}/publication/2025-01-01-perception-bottleneck-of-vlms-for-chart-understanding)."** *arXiv*, 2025. *(First author; code on GitHub: **Vision4Chart**.)*
+1. **Junteng Liu**, Yuanxiang Fan, Zhuo Jiang, Han Ding, Yongyi Hu, Chi Zhang, Yiqi Shi, Shitong Weng, Aili Chen, Shiqi Chen, Yunan Huang, Mozhi Zhang, Pengyu Zhao, Junjie Yan, Junxian He. "[SynLogic: Synthesizing Verifiable Reasoning Data at Scale for Learning Logical Reasoning and Beyond]({{ base_path }}/publication/2025-01-02-synlogic)." *arXiv*, 2025. *(First author; code available on GitHub.)*
+2. **Junteng Liu**, Weihao Zeng, Xiwen Zhang, Yijun Wang, Zifei Shan, Junxian He. "[On the Perception Bottleneck of VLMs for Chart Understanding]({{ base_path }}/publication/2025-01-01-perception-bottleneck-of-vlms-for-chart-understanding)." *arXiv*, 2025. *(First author; code on GitHub: **Vision4Chart**.)*
 
 ### Conference Papers
 
-3. **Junteng Liu**, Shiqi Chen, Yu Cheng, Junxian He. **"[On the Universal Truthfulness Hyperplane Inside LLMs]( {{ base_path }}/publication/2024-11-01-universal-truthfulness-hyperplane-inside-llms)."** **EMNLP 2024**. *(First author; code on GitHub: **Universal_Truthfulness_Hyperplane**.)*
-4. Shiqi Chen, Miao Xiong, **Junteng Liu**, Zhengxuan Wu, Teng Xiao, Siyang Gao, Junxian He. **"[In-Context Sharpness as Alerts: An Inner Representation Perspective for Hallucination Mitigation]( {{ base_path }}/publication/2024-07-01-in-context-sharpness-as-alerts)."** **ICML 2024**.
-5. Yuzhen Huang, Yuzhuo Bai, Zhihao Zhu, Junlei Zhang, Jinghan Zhang, Tangjun Su, **Junteng Liu**, Chuancheng Lv, Yikai Zhang, Jiayi Lei, Yao Fu, Maosong Sun, Junxian He. **"[C-Eval: A Multi-Level Multi-Discipline Chinese Evaluation Suite for Foundation Models]( {{ base_path }}/publication/2023-12-01-c-eval)."** **NeurIPS 2023**.
-6. Jinghan Zhang, Shiqi Chen, **Junteng Liu**, Junxian He. **"[Composing Parameter-Efficient Modules with Arithmetic Operations]( {{ base_path }}/publication/2023-12-02-parameter-efficient-module-arithmetic)."** **NeurIPS 2023**.
+3. **Junteng Liu**, Shiqi Chen, Yu Cheng, Junxian He. "[On the Universal Truthfulness Hyperplane Inside LLMs]({{ base_path }}/publication/2024-11-01-universal-truthfulness-hyperplane-inside-llms)." **EMNLP 2024**. *(First author; code on GitHub: **Universal_Truthfulness_Hyperplane**.)*
+4. Shiqi Chen, Miao Xiong, **Junteng Liu**, Zhengxuan Wu, Teng Xiao, Siyang Gao, Junxian He. "[In-Context Sharpness as Alerts: An Inner Representation Perspective for Hallucination Mitigation]({{ base_path }}/publication/2024-07-01-in-context-sharpness-as-alerts)." **ICML 2024**.
+5. Yuzhen Huang, Yuzhuo Bai, Zhihao Zhu, Junlei Zhang, Jinghan Zhang, Tangjun Su, **Junteng Liu**, Chuancheng Lv, Yikai Zhang, Jiayi Lei, Yao Fu, Maosong Sun, Junxian He. "[C-Eval: A Multi-Level Multi-Discipline Chinese Evaluation Suite for Foundation Models]({{ base_path }}/publication/2023-12-01-c-eval)." **NeurIPS 2023**.
+6. Jinghan Zhang, Shiqi Chen, **Junteng Liu**, Junxian He. "[Composing Parameter-Efficient Modules with Arithmetic Operations]({{ base_path }}/publication/2023-12-02-parameter-efficient-module-arithmetic)." **NeurIPS 2023**.
 
 ## Contact
 
